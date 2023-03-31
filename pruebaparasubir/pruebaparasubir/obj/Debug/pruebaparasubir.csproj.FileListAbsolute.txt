@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Nuevo Proyecto\pruebaparasubir\pruebaparasubir\bin\Debug\pruebaparasubir.exe.config
+C:\Users\Usuario\Desktop\Nuevo Proyecto\pruebaparasubir\pruebaparasubir\bin\Debug\pruebaparasubir.exe
+C:\Users\Usuario\Desktop\Nuevo Proyecto\pruebaparasubir\pruebaparasubir\bin\Debug\pruebaparasubir.pdb
+C:\Users\Usuario\Desktop\Nuevo Proyecto\pruebaparasubir\pruebaparasubir\obj\Debug\pruebaparasubir.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Nuevo Proyecto\pruebaparasubir\pruebaparasubir\obj\Debug\pruebaparasubir.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Nuevo Proyecto\pruebaparasubir\pruebaparasubir\obj\Debug\pruebaparasubir.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nuevo Proyecto\pruebaparasubir\pruebaparasubir\obj\Debug\pruebaparasubir.exe
+C:\Users\Usuario\Desktop\Nuevo Proyecto\pruebaparasubir\pruebaparasubir\obj\Debug\pruebaparasubir.pdb
