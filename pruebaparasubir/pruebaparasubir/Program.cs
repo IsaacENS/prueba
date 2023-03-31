@@ -10,7 +10,7 @@ namespace pruebaparasubir
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hola");   
+            Console.WriteLine("hola guacho");   
         }
     }
 }
